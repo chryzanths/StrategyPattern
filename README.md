@@ -52,5 +52,7 @@ public class Character {
     }
 }
 
-![Blank diagram](https://github.com/chryzanths/Strategy-Lab-Activity/assets/104879763/e71f7e6f-03d1-4d80-a870-46c5e7113769)
+![strategy pattern uml](https://github.com/chryzanths/StrategyPattern/assets/104879763/0caefd7a-ff95-4b23-b1e3-5c6a5fb569e1)
+
+
 
